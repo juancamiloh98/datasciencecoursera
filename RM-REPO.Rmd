@@ -1,11 +1,10 @@
 ---
-title: "HelloWorld.md"
-author: "Juan Camilo Hernandez S"
+title: "HelloWorld"
+author: "Juan Camilo Hernandez"
 date: "17/11/2020"
 output: html_document
 ---
 ## This is a markdown file
-### One
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
